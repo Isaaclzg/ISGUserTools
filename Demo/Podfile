@@ -1,0 +1,8 @@
+ platform :ios, '9.0'
+
+target 'ISGUserTools' do
+
+pod 'MJExtension', '~> 3.0.13'
+pod 'SAMKeychain', '~> 1.5.3'
+
+end
