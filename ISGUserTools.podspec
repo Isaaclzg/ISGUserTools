@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "ISGUserTools"
-  s.version      = "0.1"
+  s.version      = "1.0"
   s.summary      = "ISGUserTools."
 
   # This description is used to generate tags and improve search results.
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-            用户信息相关
+  登录用户信息存储，以及账号密码保存到钥匙串
                    DESC
 
   s.homepage     = "https://github.com/Isaaclzg/ISGUserTools"
@@ -40,7 +40,7 @@ Pod::Spec.new do |s|
   #
 
   #s.license      = " :type => 'MIT', :file => 'LICENSE' "
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = "MIT"
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
@@ -65,7 +65,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, "9.0"
+  s.platform     = :ios, "8.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
