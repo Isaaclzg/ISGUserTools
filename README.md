@@ -1,8 +1,8 @@
 # ISGUserTools
 
-[![Version](https://img.shields.io/cocoapods/v/ISGUIViewExt.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
-[![License](https://img.shields.io/cocoapods/l/ISGUIViewExt.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
-[![Platform](https://img.shields.io/cocoapods/p/ISGUIViewExt.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
+[![Version](https://img.shields.io/cocoapods/v/ISGUserTools.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
+[![License](https://img.shields.io/cocoapods/l/ISGUserTools.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
+[![Platform](https://img.shields.io/cocoapods/p/ISGUserTools.svg?style=flat)](https://cocoapods.org/pods/ISGUserTools)
 
 
 ## 安装
